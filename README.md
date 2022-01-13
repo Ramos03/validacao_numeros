@@ -4,7 +4,7 @@
 
 O sistema é capaz de decompor um número em todos os seus divisores, enumerando também aqueles que forem primos.
 
-O sistema só aceita números inteiros, caso seja informado letras ou números decimais não será executados.
+O sistema só aceita números inteiros, caso seja informado letras ou números decimais não serão executados.
 
 ### Pré-requisitos
 
